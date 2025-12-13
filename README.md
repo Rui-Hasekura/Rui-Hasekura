@@ -10,8 +10,8 @@
 
 ---
 
-## Want to do
-- 404 Not Found
+## Doing now
+- Learning...
 
 ---
 
