@@ -1,18 +1,9 @@
-## Tech Stack
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+# Hi👋
+I'm a student and a Modern C++ developer.
+Why? 'Cause Modern C++ is my ~~main~~ only language.
 
-### 🌐 UI / UX Development
-<p align="left">
-  <img src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white"/>
+## Projects I've Built (or Am Working On)
+- An FTS library (Coming soon — and yes, written by me line by line!)
+*Where’s lcmp? AI did all the heavy lifting, so it doesn't really count as "built" by me...*
 
-### 🖥️ Systems & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
-
-## ✉️联系我
-- Email: rui_hasekura@gmail.com
-- X: @Rui_Hasekura
+Contact me via email at `rui_hasekura@gmail.com`.
